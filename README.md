@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arsala Khan  
+# 👋 Hi, I'm Arsala 
 🎓 BSc CS Student | 🌟 Aspiring Data Scientist | 🤖 Future GenAI & Agentic AI Specialist
 
 ---
